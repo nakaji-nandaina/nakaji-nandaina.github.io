@@ -18,7 +18,7 @@ https://nakaji-nandaina.github.io/demo_game/
 <br>
 攻撃：左クリック
 <br>
-回避:SHIFTキー
+回避（ダッシュ）:SPACEキー
 <br>
 ## 武器ポーチ
 購入したり、敵からドロップした武器は武器ポーチで装備することができます。
